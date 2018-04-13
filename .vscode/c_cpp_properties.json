@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/m1ch1/software/arduino/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                "/home/m1ch1/software/arduino/arduino-1.8.5/libraries/Servo/src",
+                "/home/m1ch1/software/arduino/arduino-1.8.5/libraries/ros_lib"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/m1ch1/software/arduino/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                    "/home/m1ch1/software/arduino/arduino-1.8.5/libraries/Servo/src",
+                    "/home/m1ch1/software/arduino/arduino-1.8.5/libraries/ros_lib"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}
