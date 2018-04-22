@@ -131,6 +131,8 @@ void setup()
   nh.advertise(pub_pos);
   nh.subscribe(sub_set_speed);
   nh.subscribe(sub_set_pos);
+
+  g_sensor_head.setPos(0,0);
   
 }
 
